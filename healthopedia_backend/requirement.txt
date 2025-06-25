@@ -1,0 +1,23 @@
+langchain_community
+git+https://github.com/langchain/community.git
+
+# langchain
+git+https://github.com/langchain/langchain.git
+
+# FastAPI and Uvicorn
+fastapi==0.68.1
+uvicorn==0.15.0
+
+# Hugging Face Transformers
+transformers==4.10.0
+
+# PyTorch
+torch==1.10.0
+
+# bitsandbytes
+
+# pypdf/ pypdf2 
+
+# accelerate
+
+# faiss_cpu
