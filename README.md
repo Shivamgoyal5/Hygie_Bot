@@ -1,5 +1,5 @@
 
-# *Won PAN IIT GEN-AI Hackathon seizing 3rd place among all IITs*
+# HYGIE BOT
 
 ## *Building ChatBot for Medical Healthcare using Mixtral 8x7b model, FAISS, LANGCHAIN, RAG Model, Question-Answering Pipeline*
 
