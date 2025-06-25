@@ -115,7 +115,7 @@ Make sure you have the following installed on your machine:
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/GGarv/Healthopedia.git
+git clone https://github.com/Shivamgoyal5/Hygie_Bot.git
 cd Healthopedia
 
 **Installation**
