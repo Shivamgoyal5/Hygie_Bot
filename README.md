@@ -3,7 +3,7 @@
 
 ## *Building ChatBot for Medical Healthcare using Mixtral 8x7b model, FAISS, LANGCHAIN, RAG Model, Question-Answering Pipeline*
 
-![healthopedia](https://github.com/GGarv/Healthopedia/blob/main/public/assets/images/Healthopedia.png)
+
 
 ### Table of Contents
 1. [Introduction](#introduction)
@@ -457,3 +457,4 @@ username: {
 
 #
 #
+
